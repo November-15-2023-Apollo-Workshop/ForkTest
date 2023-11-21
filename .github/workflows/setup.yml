@@ -1,5 +1,5 @@
 
-name: Initial Setup
+name: Initial Setup test
 
 on:
   push:
